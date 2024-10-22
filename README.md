@@ -1,4 +1,5 @@
 # DeepTradeInsights
+Link: https://deeptradeinsights.streamlit.app/
 
 
 This project implements a Stock Price Predictor using a Long Short-Term Memory (LSTM) model. The model is trained on historical stock price data and can make predictions for future stock prices.
